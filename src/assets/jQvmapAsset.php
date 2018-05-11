@@ -12,12 +12,12 @@ use yii\web\AssetBundle;
 
 class jQvmapAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/jqvmap';
+    public $sourcePath = '@bower/jqvmap/dist';
     public $js = [
-        'dist/jquery.vmap.js'
+        'jquery.vmap.js'
     ];
     public $css = [
-        'dist/jqvmap.css'
+        'jqvmap.css'
     ];
     public $depends = [
             'yii\web\JqueryAsset',
