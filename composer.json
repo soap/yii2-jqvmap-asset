@@ -1,7 +1,7 @@
 {
     "name": "soap/yii2-jqvmap-asset",
     "description": "Yii2 asset bundle for jQuery Vector Map",
-    "type": "yii2 extension",
+    "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
