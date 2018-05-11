@@ -1,0 +1,26 @@
+{
+    "name": "soap/yii2-jqvmap-asset",
+    "description": "Yii2 asset bundle for jQuery Vector Map",
+    "type": "yii2 extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Prasit Gebsaap",
+            "email": "prasit.gebsaap@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.0",
+        "yiisoft/yii2": "~2.0.13",
+        "bower-asset/jqvmap": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-faker": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "soap\\jqvmap\\": "src/"
+        }
+    }
+}
