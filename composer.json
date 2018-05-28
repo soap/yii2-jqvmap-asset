@@ -14,7 +14,7 @@
         "php": "~7.0",
         "yiisoft/yii2": "~2.0.13",
         "bower-asset/jqvmap": "*",
-        "bower-asset/jqvmap-thai": "*"
+        "bower-asset/jqvmap-thai": "~0.0.2"
     },
     "require-dev": {
         "yiisoft/yii2-faker": "^2.0"
