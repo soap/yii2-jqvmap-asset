@@ -9,7 +9,7 @@
             "email": "prasit.gebsaap@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "~7.0",
         "yiisoft/yii2": "~2.0.13",
