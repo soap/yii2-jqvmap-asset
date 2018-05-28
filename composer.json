@@ -9,12 +9,12 @@
             "email": "prasit.gebsaap@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "~7.0",
         "yiisoft/yii2": "~2.0.13",
-        "bower-asset/jqvmap": "*",
-        "bower-asset/jqvmap-thai": "~0.0.2"
+        "bower-asset/jqvmap": "~1.5.1",
+        "bower-asset/jqvmap-thai": "@dev"
     },
     "require-dev": {
         "yiisoft/yii2-faker": "^2.0"
